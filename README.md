@@ -6,6 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love travelling and hiking.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandarunachelam)](https://github.com/anuraghazra/github-readme-stats)
 # Skills
 Python, SQL, Data Governance, Power Excel (Power Query, Power Pivot, DAX), MS Power BI, VPA, Cloud Computing
 
