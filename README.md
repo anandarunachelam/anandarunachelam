@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning Unsupervised Machine Learning
 - 💞️ I’m looking to collaborate on SML or USML projects
-- 📫 You can reach me via Github or on anandva42@gmail.com
+- 📫 You can reach me via Github or on ananthvelan60@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love travelling and hiking.
 
